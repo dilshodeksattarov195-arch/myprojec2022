@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileetch",
+        "uuid": 6874800,
+        "checksum": "7iib9s"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
